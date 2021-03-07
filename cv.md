@@ -2,16 +2,16 @@
 
 ##  **Bulynko Sergey**
 
-### Contacts:
-### Phone number: +375299274456
-### E-mail: bulynko.sergey.y@gmail.com
+## Contacts:
+#### Phone number: +375299274456
+#### E-mail: bulynko.sergey.y@gmail.com
 
 ## About myself:
 
-### *Responsible, diligent, ready for difficulties person 
-### who wants to find a good job. I strive to gain experience 
-### and new knowledge. I hope to become a programmer 
-### in the future, but for now I will do my best for this.*
+#### *Responsible, diligent, ready for difficulties person
+#### who wants to find a good job. I strive to gain experience
+#### and new knowledge. I hope to become a programmer 
+#### in the future, but for now I will do my best for this.
 
 ## Programming skills:
 * **C++**
@@ -45,3 +45,12 @@ function fizzbuzz(n)
   return arr;
 }
 ```
+
+## Experience:
+*empty at the moment*
+
+## Education:
+*Graduated from high school № 27 of the city of Bobruisk. Now I study at the Belarusian State University at the Faculty of Radiophysics and Computer Technologies.*
+
+## English:
+*intermediate*
